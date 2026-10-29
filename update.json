@@ -1,7 +1,7 @@
 {
   "dialogConfig": {
     "enabled": true,
-    "version": "13.1.1",
+    "version": "21.40.166",
     "mandatory": true,
     "update_url": "https://apkprimehub.com/telegram-premium-apk/",
     "title": "Update Available!",
